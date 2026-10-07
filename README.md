@@ -69,5 +69,5 @@ Los commits siguen **Conventional Commits** (`feat:`, `fix:`, `docs:`, `chore:`,
 
 ## 📋 Gestión del proyecto
 
-- **Tablero Kanban:** [Tablero de Desarrollo - Tomateltiempo](https://github.com/users/vkiter/projects/PENDIENTE)
+- **Tablero Kanban:** [Tablero de Desarrollo - Tomateltiempo](https://github.com/users/vkiter/projects/2)
 - **Issues:** redactadas como historias de usuario con criterios de aceptación.
